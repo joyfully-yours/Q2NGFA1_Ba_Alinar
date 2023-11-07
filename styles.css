@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    background-color: black;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+}
+
+video{
+    height: 100vh;
+    width: 33vw;
+}
+
